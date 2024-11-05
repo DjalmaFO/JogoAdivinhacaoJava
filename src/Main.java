@@ -27,8 +27,6 @@ public class Main {
         int tentativas = 1;
         boolean acertou = false;
 
-        System.out.println(numeroSorteado);
-
 
         while (!acertou && tentativas <= 5) {
             if (tentativas > 0) {
